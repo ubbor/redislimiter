@@ -1,4 +1,4 @@
---车险网关限流熔断
+--redis limiter
 --ericprotectearth@gmail.com
 --2019/7/25
 
