@@ -11,7 +11,7 @@ import java.io.Serializable;
  */
 @Setter
 @Getter
-public class LimiterConfigureDto implements Serializable{
+public class LimiterConfiguration implements Serializable{
     private static final long serialVersionUID = -6334839695743177588L;
     /**
      * redis key前缀
